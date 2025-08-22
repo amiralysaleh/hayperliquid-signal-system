@@ -1,0 +1,6 @@
+name = "hyperliquid-signal-system-frontend"
+type = "pages"
+main = "dist"
+build = "vite build"
+
+
